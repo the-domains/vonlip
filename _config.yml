@@ -1,7 +1,7 @@
-name: null
+name: VonLip
 favicon: null
 layout_spectrum: 0.49739159969612956
-typography_spectrum: 0.7130953792948276
+typography_spectrum: 0.11783
 cta:
   domain: null
   bucket: null
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.8440926617477089
+  brandColors:
+    - '#393939'
+    - '#ffffff'
+    - '#978281'
+    - '#c4afae'
+    - '#e8d8d8'
+  brandStrength: 0.5
   lightness: 0.8691101097501814
   saturation: 0.4796437176410109
   rhythmicContrast: 0.05338984658010304
